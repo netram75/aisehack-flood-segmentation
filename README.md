@@ -42,3 +42,7 @@ Leaderboard Score: 0.1736
 - Improve generalization
 - Better post-processing
 - Ensemble optimization
+
+## Notebook
+[Kaggle Notebook Link]([paste-link-here](https://www.kaggle.com/code/ravijotsinha/flood-segmentation-using-sar-8tta?scriptVersionId=308753529))
+
